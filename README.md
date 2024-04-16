@@ -8,5 +8,5 @@ Also I went ahead and added in Blinn-Phong based specular when (after I finished
 Additionally there is seemingly another accidental unused **much simpler** version of the shader which from what I can tell at _"Pine/Effect/Effect_ToonBase"_ I added the disassembly since I accidentally started building off of that before restarting
 
 ## Model Files
-Thanks to **Tiniest Turtles** we have easily imported fbx files of all of the playable characters (at release)
+Thanks to [Tiniest Turtles](https://x.com/tiniestturtles?s=21&t=GPIB9q9sJ2F9-Brjn_E1ug) we have easily imported fbx files of all of the playable characters (at release)
 [Google Drive Link](https://drive.google.com/file/d/1fb3TmgTrkpM7C2Tg7_qYsHLgE5DccLti/view)
